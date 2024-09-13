@@ -38,6 +38,4 @@ temperature-converter/
 
 
 ## Conclusion
-
 This project demonstrates how simple web applications can be built using fundamental web technologies: HTML, CSS, and JavaScript. The app serves as a functional temperature converter with a user-friendly interface and responsive design.
----
