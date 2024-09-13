@@ -6,8 +6,7 @@ The **Temperature Converter** is a web-based application designed to convert tem
 ## GitHub Pages Deployed Link
 [Visit Live Project 🔗](https://probhask.github.io/temperature-converter/)
 ```bash
-https://probhask.github.io/temperature-converter
-/
+https://probhask.github.io/temperature-converter/
 ```
 
 ![!website-live-preview ](./preview.png)
